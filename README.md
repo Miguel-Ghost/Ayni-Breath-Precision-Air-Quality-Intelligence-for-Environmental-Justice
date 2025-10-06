@@ -58,5 +58,4 @@ This project is open source under the **MIT License** — because clean air is a
 - Communities on the frontlines of air pollution — you are our why.
 
 ---
-
-> **Breathe well. Demand better. Practice ayni.**
+**Breathe well. Demand better. Practice ayni.**
